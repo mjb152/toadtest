@@ -2,6 +2,6 @@
 use Toadfarm -init;
 
 mount "./test1/script/test1" => { Host => "domain1.com", };
-mount "./test2/script/test2" => { Host => "domain2.sbower.com", };
+mount "./test2/script/test2" => { Host => "domain2.com", };
 
 start ["http://*:80"];
