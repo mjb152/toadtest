@@ -1,0 +1,10 @@
+[Thu Apr 30 14:55:08 2015] [debug] Your secret passphrase needs to be changed
+[Thu Apr 30 14:55:08 2015] [debug] GET "/"
+[Thu Apr 30 14:55:08 2015] [debug] Routing to a callback
+[Thu Apr 30 14:55:08 2015] [debug] Rendering template "index.html.ep"
+[Thu Apr 30 14:55:08 2015] [debug] 200 OK (0.002598s, 384.911/s)
+[Thu Apr 30 14:59:39 2015] [debug] Your secret passphrase needs to be changed
+[Thu Apr 30 14:59:39 2015] [debug] GET "/"
+[Thu Apr 30 14:59:39 2015] [debug] Routing to a callback
+[Thu Apr 30 14:59:39 2015] [debug] Rendering template "index.html.ep"
+[Thu Apr 30 14:59:39 2015] [debug] 200 OK (0.002662s, 375.657/s)
